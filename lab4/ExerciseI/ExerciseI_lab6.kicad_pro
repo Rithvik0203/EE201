@@ -120,8 +120,8 @@
       },
       "track_widths": [
         0.0,
-        0.254,
-        0.508
+        10.0,
+        20.0
       ],
       "via_dimensions": [
         {
@@ -348,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ExerciseII.kicad_pro",
+    "filename": "ExerciseI_lab6.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -427,7 +427,7 @@
   },
   "sheets": [
     [
-      "60bd36c3-176e-4b37-b491-996a63e727af",
+      "106eca65-0645-4f26-b894-04e5f39fa98a",
       ""
     ]
   ],
